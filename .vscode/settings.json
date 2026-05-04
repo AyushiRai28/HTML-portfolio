@@ -1,3 +1,6 @@
 {
-    "livePreview.hostIP": "197.168.1.17"
+    "livePreview.hostIP": "127.0.0.1",
+    "liveServer.settings.host": "197.168.1.17",
+    "livePreview.portNumber": 3000,
+    "livePreview.tasks.runTaskWithExternalPreview": false
 }
